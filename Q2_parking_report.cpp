@@ -2,7 +2,7 @@
  * Name       : Ali Murtaza
  * Reg No     : L1S26BSCS0113
  * Assignment : 02 - File Handling
- * Question   : Q1 - Stock Report (Debugging)
+ * Question   : Q2 - Parking report
  */
 
 #define _CRT_SECURE_NO_WARNINGS
